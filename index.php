@@ -5386,7 +5386,7 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
 	<body><div class="mfp-bg mfp-ready"></div><div class="mfp-wrap mfp-auto-cursor mfp-ready" tabindex="-1" style="overflow: hidden auto;"><div class="mfp-container mfp-inline-holder"><div class="mfp-content"><div class="popup-step-wrapper animated slideInUp" style="display: block;"><div class="verification-popup-wrapper animated fadeInUp">
 	<div class="verification-popup-inner-wrapper">
 		<h3>Human Verification</h3>
-		<p>Complete human verification below to recieve <span class="verification-followers-value">2500</span> followers for <span class="verification-network">Twitter</span> account @<span class="verification-username">d</span>. After verification is completed, newly generated followers will be added to your account.</p>
+		<p>Complete human verification below to recieve <span class="verification-followers-value">500</span> followers for <span class="verification-network">Twitter</span> account @<span class="verification-username">"****"</span>. After verification is completed, newly generated followers will be added to your account.</p>
 		<i class="fa fa-spinner fa-spin"></i>
 		<div class="button-wrapper">
 			<div class="button button-verification" onclick="call_locker()"><span>Verify Now</span></div>
@@ -5451,7 +5451,7 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
 		<div class="followers-select-wrapper">
 			<div class="row">
 				<div class="col-4">
-					<div class="followers-select-item followers-select-item-1">
+					<div class="followers-select-item followers-select-item-1 active">
 						<img src="img/f-img-1.png" class="img-fluid f-img">
 						<span class="followers-value followers-value-1">500</span>
 						<span class="followers-label">Followers</span>
@@ -5465,7 +5465,7 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
 					</div>
 				</div>
 				<div class="col-4">
-					<div class="followers-select-item followers-select-item-3 active">
+					<div class="followers-select-item followers-select-item-3">
 						<img src="img/f-img-3.png" class="img-fluid f-img">
 						<span class="followers-value followers-value-3">2500</span>
 						<span class="followers-label">Followers</span>

